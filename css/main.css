@@ -92,3 +92,16 @@ span {
     font-size: 0.5em;
     flex-direction: row-reverse;
 }
+
+.form {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    font-size: 18px;
+    width: 100%;
+    margin: 0 auto 20px auto;
+}
+
+textarea {
+    height: 300px;
+}
